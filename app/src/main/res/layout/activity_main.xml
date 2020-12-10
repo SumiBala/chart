@@ -27,7 +27,6 @@
         android:layout_height="300dp"
         android:padding="8dp"
         app:egLegendTextSize="18sp"
-        app:egUsePieRotation="true"
-        app:egValueTextSize="36sp"/>
+        />
 
 </LinearLayout>

@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         mPieChart.addPieSlice(new PieModel("Sleep", 25, Color.parseColor("#56B7F1")));
         mPieChart.addPieSlice(new PieModel("Work", 35, Color.parseColor("#CDA67F")));
         mPieChart.addPieSlice(new PieModel("Eating", 9, Color.parseColor("#FED70E")));
-
+mPieChart.addPieSlice(new PieModel("Yoga",130,Color.BLACK));
         mPieChart.startAnimation();
     }
 }
